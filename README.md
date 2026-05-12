@@ -1,2 +1,2 @@
 # Pytest_BL
-Repository for Pytest, APIs and other debugging related tasks.
+Repository for pytest, APIs and other debugging
